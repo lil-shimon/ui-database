@@ -1,2 +1,2 @@
-export * from './atoms/buttons';
-export * from './atoms/textDisplay'
+export * from './components/atoms/buttons';
+export * from './components/atoms/textDisplay';
