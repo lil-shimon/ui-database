@@ -5,6 +5,6 @@ export interface LilProps {
 }
 
 /// basicなボタンコンポーネント
-export const lilButton = ({title} : LilProps) => {
+export const LilButton = ({title} : LilProps) => {
   return <button>{title}</button>
 }
