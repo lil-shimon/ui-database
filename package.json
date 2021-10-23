@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@lil-shimon/ui-database",
+  "name": "@lil-lily/ui-database",
   "author": "shimon",
   "module": "dist/ui-database.esm.js",
   "size-limit": [
